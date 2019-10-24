@@ -37,3 +37,4 @@ C:\Users\_psTALENTFOUR\source\repos\StackedChartwithCoreMVCDemo\StackedChartwith
 C:\Users\_psTALENTFOUR\source\repos\StackedChartwithCoreMVCDemo\StackedChartwithCoreMVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\PieChart\Index.cshtml.g.cs
 C:\Users\_psTALENTFOUR\source\repos\StackedChartwithCoreMVCDemo\StackedChartwithCoreMVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\AreaChart\Index.cshtml.g.cs
 C:\Users\_psTALENTFOUR\source\repos\StackedChartwithCoreMVCDemo\StackedChartwithCoreMVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\BarChart\Index.cshtml.g.cs
+C:\Users\_psTALENTFOUR\source\repos\StackedChartwithCoreMVCDemo\StackedChartwithCoreMVCDemo\obj\Debug\netcoreapp2.1\Razor\Views\StackedChart\Index.cshtml.g.cs

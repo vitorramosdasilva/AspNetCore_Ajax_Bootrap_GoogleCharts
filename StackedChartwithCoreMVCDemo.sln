@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackedChartwithCoreMVCDemo", "StackedChartwithCoreMVCDemo\StackedChartwithCoreMVCDemo.csproj", "{7A256034-6DB1-4256-ABCA-8469788E0166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A256034-6DB1-4256-ABCA-8469788E0166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A256034-6DB1-4256-ABCA-8469788E0166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A256034-6DB1-4256-ABCA-8469788E0166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A256034-6DB1-4256-ABCA-8469788E0166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFBB0F43-1CAE-4186-9769-C741DC8DB603}
+	EndGlobalSection
+EndGlobal
